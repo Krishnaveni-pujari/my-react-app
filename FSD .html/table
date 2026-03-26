@@ -1,0 +1,58 @@
+<table border="1">
+    <h1><center>IPL Teams</center><h1>
+    <tr>
+        <td>Team</td>
+        <td>Captain</td>
+        <td>Home Ground</td>
+    </tr>
+    <tr>
+        <td>Chennai Super Kings</td>
+        <td>Chennai</td>
+        <td>Ruturaj Gaikwad</td>
+    </tr>
+    <tr>
+        <td>Dehli Captains</td>
+        <td>New Dehli</td>
+        <td>Axar Patel</td>
+    </tr>
+    <tr>
+        <td>Gujarat Titans</td>
+        <td>Shubman Gill</td>
+        <td>Narendra Modi stadium Ahmedhabad</td>
+    </tr>
+    <tr>
+        <td>Kolkata Knight Riders (KKR)</td>
+        <td>Shreyas Iyer</td>
+        <td>Kolkata, West Bengal</td>
+    </tr>
+    <tr>
+        <td>Lucknow Super Giants (LSG)</td>
+        <td>KL Rahul</td>
+        <td>Lucknow, Uttar Pradesh</td>
+    </tr>
+    <tr>
+        <td>Mumbai Indians (MI)</td>
+        <td>Hardik Pandya</td>
+        <td>Mumbai, Maharashtra</td>
+    </tr>
+    <tr>
+        <td>Punjab Kings (PBKS)</td>
+        <td>Shikhar Dhawan</td>
+        <td>Mohali, Punjab</td>
+    </tr>
+    <tr>
+        <td>Rajasthan Royals (RR)</td>
+        <td>Sanju Samson</td>
+        <td>Jaipur, Rajasthan</td>
+    </tr>
+    <tr>
+        <td>Royal Challengers Bengaluru (RCB)</td>
+        <td>Faf du Plessis</td>
+        <td>Bengaluru, Karnataka</td>
+    </tr>
+    <tr>
+        <td>Sunrisers Hyderabad (SRH)</td>
+        <td>Pat Cummins</td>
+        <td>Hyderabad, Telangana</td>
+    </tr>
+</table>
